@@ -24,7 +24,7 @@ This is a simple Java Console Application that simulates the operation of a coin
 
     ```bash
     git clone https://github.com/CDzung/my-vending-machine.git
-    cd my-vending-machine
+    cd src
     ```
 
 2. **Compile the Java files:**
